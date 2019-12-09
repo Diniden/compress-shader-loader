@@ -1,0 +1,28 @@
+{
+  "name": "compress-shader-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader that removes comments and excess whitespace and then inlines the resource into the bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diniden/compress-shader-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "glsl",
+    "shader",
+    "compression",
+    "optimized",
+    "bundle"
+  ],
+  "author": "Diniden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diniden/compress-shader-loader/issues"
+  },
+  "homepage": "https://github.com/Diniden/compress-shader-loader#readme"
+}
